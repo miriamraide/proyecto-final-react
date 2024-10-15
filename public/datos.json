@@ -1,0 +1,373 @@
+[
+  {
+    "key": 1,
+    "name": "Cama/mochila para mascotas pequeñas",
+    "description": "Tejida por abuelas del Noreste Argentino, esta original camita es super liviana y flexible, lista para llevar a todas partes",
+    "image": "./public/images/bed2.jpg",
+    "price": 25000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+
+  },
+  {
+    "key": 2,
+    "name": "Cama moderna, ideal para mascotas pequeñas",
+    "description": "Super contemporánea, y muy original, ideal para quienes buscan un estilo de decoración moderno",
+    "image": "./public/images/bed1.jpg",
+    "price": 55000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 3,
+    "name": "Cama de fibras largas y tupidas, moderna, ideal para mascotas pequeñas o medianas",
+    "description": "Estilo muy confortable para mascotas, y muy actual a la hora de combinar con la decoracion del hogar",
+    "image": "./public/images/bed3.jpg",
+    "price": 35000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 4,
+    "name": "Sillon / Cama, moderno, ideal para mascotas pequeñas o medianas",
+    "description": "Este estilo no desilusiona, es como estar recostado en una montaña de almohadones.",
+    "image": "./public/images/bed2.jpg",
+    "price": 45000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 5,
+    "name": "Alimentador con néctar para pájaros",
+    "description": "Fácil de instalar, es un atractivo para ver alimentarse desde tu ventana, aves de distintos tipos y colores. Un sueño!.",
+    "image": "./public/images/birdfeeder.jpg",
+    "price": 35000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 6,
+    "name": "Alimento órganico para pájaros",
+    "description": "Cosechado en las mejores regiones del Noreste Argentino, estas semillas orgánicas son espectaculares. Se venden por kilo ",
+    "image": "./public/images/birdfood.jpg",
+    "price": 12000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 7,
+    "name": "Soga trenzada para aves",
+    "description": "Totalmente realizada a mano por aborígenes del Norte Argentino ",
+    "image": "./public/images/birdtoy.jpg",
+    "price": 28000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 8,
+    "name": "Jaula viajera para el transporte de aves domésticas",
+    "description": "Realizada 100% con productos reciclados, por una compañía local del Gran Bs. As ",
+    "image": "./public/images/birdtravel.jpg",
+    "price": 45000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 9,
+    "name": "Plato sopero para servir alimentos",
+    "description": "Realizado a mano con elementos totalmente reciclables",
+    "image": "./public/images/catfeeder.jpg",
+    "price": 22000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 10,
+    "name": "Alimento para gatos orgánico",
+    "description": "Ingrediente de primera calidad, sin agregados químicos. Se vende por kilo",
+    "image": "./public/images/catfoodorganic.jpg",
+    "price": 15000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 11,
+    "name": "Pompones y Plumerillos Colgantes para mascotas",
+    "description": "Fácil de instalar, y super atractivo para todas las mascotas, especialmente los gatos",
+    "image": "./public/images/cattoy.jpg",
+    "price": 11000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 12,
+    "name": "Mochila de cuero ecológico para transportar mascotas",
+    "description": "Totalmente realizada a mano por aborígenes del Norte Argentino, con elementos reciclables ",
+    "image": "./public/images/cattravel.jpg",
+    "price": 68000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 13,
+    "name": "Valija pequeña para el transporte de mascotas",
+    "description": "Totalmente realizada a mano por aborígenes del Norte Argentino, con elementos reciclables ",
+    "image": "./public/images/cattravel1.jpg",
+    "price": 57000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 14,
+    "name": "Cama contemporánea para perros de tamaño mediano y grande, con luz led incorporada",
+    "description": "Estilo muy confortable para mascotas, y muy actual a la hora de combinar con la decoracion del hogar",
+    "image": "./public/images/dogbed.jpg",
+    "price": 35000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 15,
+    "name": "Cama cucheta estilo lujoso para perros de tamaño mediano y grande",
+    "description": "Estilo muy confortable para mascotas, de un diseño ideal para quienes aman el estilo vintage",
+    "image": "./public/images/dogbed1.jpg",
+    "price": 95000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 16,
+    "name": "Capa estilo british gentleman, en color red ",
+    "description": "Totalmente realizada a mano por grupos de rescatista de animales, del Noreste Argentino",
+    "image": "./public/images/dogcape.jpg",
+    "price": 28000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 17,
+    "name": "Alimentador automático para mascotas",
+    "description": "Eficiencia, control, independencia, hacen de este Feeder, el mejor de todos",
+    "image": "./public/images/dogfeeder.jpg",
+    "price": 115000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 18,
+    "name": "Alimento orgánico para perros",
+    "description": "Ingrediente de primera calidad, sin agregados químicos. Se vende por kilo",
+    "image": "./public/images/dogfoodorganic.jpg",
+    "price": 15000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 19,
+    "name": "Correa para perros realizada en ecocuero",
+    "description": "Realizadas a mano con elementos totalmente reciclables",
+    "image": "./public/images/dogleashleather.jpg",
+    "price": 45000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 20,
+    "name": "Correa para perros realizada en soga resistente",
+    "description": "Realizadas a mano con elementos totalmente reciclables",
+    "image": "./public/images/dogleashfabric.jpg",
+    "price": 29000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 21,
+    "name": "Bolas de morder para perros",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/dogtoychewballs.jpg",
+    "price": 15000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 22,
+    "name": "Mochila para transportar mascotas pequeñas",
+    "description": "Totalmente realizada a mano por aborígenes del Norte Argentino, con elementos reciclables ",
+    "image": "./public/images/dogtravel.jpg",
+    "price": 24000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 23,
+    "name": "Jaula para transportar mascotas pequeñas",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/dogtravelride.jpg",
+    "price": 35000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 24,
+    "name": "Valija carrito con ruedas para transportar mascotas pequeñas",
+    "description": "Eficiencia, calidad, confortable, hacen de este carrito, el mejor de todos",
+    "image": "./public/images/dogtravelsuitcase.jpg",
+    "price": 87000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 25,
+    "name": "Chaleco de lana para usar en invierno",
+    "description": "Tejida por abuelas del Noreste Argentino, este original chaleco mantiene a todas las mascotas muy calentitas",
+    "image": "./public/images/dogvestwool.jpg",
+    "price": 19000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 26,
+    "name": "Pecera de vidrio de tamaño ideal para espacios pequeños",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/fishbowl.jpg",
+    "price": 25000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 27,
+    "name": "Pecera decorativa con Corales Rosados para usar como ambientación",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/fishbowlambiencedecorationpinkcorals.jpg",
+    "price": 27000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 28,
+    "name": "Alimento orgánico para peces",
+    "description": "Realizados con ingredientes de alta calidad. Se vende desde 100 gramos",
+    "image": "./public/images/fishfoodorganic.jpg",
+    "price": 5000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 29,
+    "name": "Pecera iluminada ultra moderna, con todos los elementos de mantenimiento del agua incluidos.",
+    "description": "Eficiencia, calidad, estilo, hacen de esta pecera, la mejor de todas",
+    "image": "./public/images/fishtank.jpg",
+    "price": 95000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 30,
+    "name": "Alimento orgánico para hamsters",
+    "description": "Realizados con ingredientes de alta calidad. Se vende desde 100 gramos",
+    "image": "./public/images/hamsterfoodorganic.jpg",
+    "price": 5000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 31,
+    "name": "Juego de laberinto para hamsters",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/hamstertoymaze.jpg",
+    "price": 35000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 32,
+    "name": "Rueda de ejercicios para hamsters",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/hamsterwheel.jpg",
+    "price": 45000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 33,
+    "name": "Asiento de mascotas para autos",
+    "description": "Realizadas a mano, con elementos totalmente reciclables",
+    "image": "./public/images/petcar.jpg",
+    "price": 37000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 34,
+    "name": "Tags de identificacion para mascotas en plástico reciclado",
+    "description": "Realizadas a mano, con elementos totalmente reciclables",
+    "image": "./public/images/pettag.jpg",
+    "price": 18000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 35,
+    "name": "Tags de identificacion para mascotas en ecocuero reciclado",
+    "description": "Realizadas a mano, con elementos totalmente reciclables",
+    "image": "./public/images/pettag1.jpg",
+    "price": 25000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 36,
+    "name": "Tags de identificacion para mascotas en acero quirúrgico pintado",
+    "description": "Realizadas a mano, con elementos totalmente reciclables",
+    "image": "./public/images/pettag3.jpg",
+    "price": 28000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  },
+  {
+    "key": 37,
+    "name": "Caja de evacuación para gatos, reusable",
+    "description": "Realizadas con elementos totalmente reciclables",
+    "image": "./public/images/recycledcatpooper.jpg",
+    "price": 37000,
+    "quantity":1,
+    "stock":10,
+    "offer":1
+  }
+]
